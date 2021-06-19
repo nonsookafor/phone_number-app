@@ -1,0 +1,79 @@
+#total {
+  text-align: center;
+  margin-top: 15%;
+}
+#st {
+  background-color: yellowgreen;
+  width: 700px;
+}
+
+#first {
+  background-color: blueviolet;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#second {
+  background-color: brown;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#third {
+  width: 70px;
+  border-radius: 50px;
+}
+
+#forth {
+  background-color: burlywood;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#fifth {
+  background-color: cadetblue;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#sixth {
+  background-color: darkgreen;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#seventh {
+  background-color: gold;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#eighth {
+  background-color: lightpink;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#ninth {
+  background-color: teal;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#tenth {
+  background-color: wheat;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#eleventh {
+  background: turquoise;
+  width: 200px;
+  border-radius: 50px;
+}
+
+#twelve {
+  background: orange;
+  width: 200px;
+  border-radius: 50px;
+}
